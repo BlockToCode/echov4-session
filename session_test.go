@@ -8,7 +8,7 @@ import (
 	"testing"
 
 	"github.com/go-session/session"
-	"github.com/labstack/echo"
+	"github.com/labstack/echo/v4"
 )
 
 func TestSession(t *testing.T) {
